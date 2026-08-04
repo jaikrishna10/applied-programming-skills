@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
