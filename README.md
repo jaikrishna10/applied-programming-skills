@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
@@ -189,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
