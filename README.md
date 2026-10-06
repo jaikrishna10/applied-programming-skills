@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
@@ -195,12 +199,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
