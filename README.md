@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jaikrishna10/applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
